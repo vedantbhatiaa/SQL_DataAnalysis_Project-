@@ -44,7 +44,7 @@ The following analyses were performed:
 
 ![](https://github.com/vedantbhatiaa/SQL_DataAnalysis_Project-/blob/main/logo3.png)
 
-![image](https://github.com/vedantbhatiaa/SQL_DataAnalysis_Project-/assets/149946787/1b261065-f398-4c47-b5a2-29cea638ebe4)
+![](https://github.com/vedantbhatiaa/SQL_DataAnalysis_Project-/blob/main/logo4.png)
 
 
 
