@@ -42,7 +42,7 @@ The following analyses were performed:
 - Periodic peaks in layoffs over time suggest economic influences.
 - Companies at the "Post-IPO" stage have a higher average percentage of layoffs.
 
-![image](https://github.com/vedantbhatiaa/SQL_DataAnalysis_Project-/assets/149946787/b6c9d32c-ec26-405e-b4cc-267d34cac7c6)
+![](https://github.com/vedantbhatiaa/SQL_DataAnalysis_Project-/blob/main/logo3.png)
 
 ![image](https://github.com/vedantbhatiaa/SQL_DataAnalysis_Project-/assets/149946787/1b261065-f398-4c47-b5a2-29cea638ebe4)
 
